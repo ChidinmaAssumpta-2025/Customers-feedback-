@@ -1,6 +1,3 @@
-Here’s a **concise and professional `README.md`** file for your GitHub project, highlighting that it’s a **complete end-to-end ETL project** built around a real business problem.
-
----
 
 # 🧾 QuickSupply ETL Pipeline — End-to-End Data Engineering Project
 
